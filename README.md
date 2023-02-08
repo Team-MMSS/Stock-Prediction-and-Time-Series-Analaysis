@@ -1,6 +1,6 @@
-# Stock-prediction-and Time-series-analaysis
+## Stock Prediction and Time Series Analaysis ##
 
-# Stock-prediction using Tesla data set
+# Stock-prediction using Tesla dataset
 Regression models can be used to make stock predictions using a Tesla stock dataset. The idea is to fit a regression model to historical stock data and use it to predict future values. For example, a simple linear regression model can be trained using the closing price of Tesla stock as the dependent variable and time as the independent variable. The model can then be used to make predictions for future dates. However, it is important to keep in mind that stock prices are highly unpredictable and no model can guarantee accurate predictions. It is also essential to consider factors such as market trends, economic indicators, and company-specific news while making predictions.
 
 # Linear regression :-
